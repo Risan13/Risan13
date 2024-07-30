@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Risan13
-- 👀 I’m interested in Game devolopment
+- 👀 I’m interested in Game development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing currently
-- 📫 How to reach me Just dm me
+- 📫 How to reach me just dm me in discord @risan13
 - 😄 Pronouns: !.
 - ⚡ Fun fact: !.
 
